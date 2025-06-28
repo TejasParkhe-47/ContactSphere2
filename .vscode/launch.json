@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ScmApplication<scm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tejas.ScmApplication",
+            "projectName": "scm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
