@@ -30,7 +30,7 @@ A simple and elegant **Contact Management Web Application** built with **Spring 
 
 ## 🖼️ Screenshots
 
-![image alt]](https://github.com/TejasParkhe-47/ContactSphere2/blob/main/scmshots1.png?raw=true)
+![image alt](https://github.com/TejasParkhe-47/ContactSphere2/blob/main/scmshots1.png?raw=true)
 
 
 ---
